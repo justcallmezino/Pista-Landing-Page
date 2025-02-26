@@ -1,3 +1,3 @@
 # Pista-Landing-Page
 
-![Desktop version](design-version.JPG)
+![Desktop version](desktop-version.JPG)
